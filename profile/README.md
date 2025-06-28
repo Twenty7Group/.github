@@ -2,7 +2,7 @@
 
 Welcome to the official GitHub organization of **Twenty7Group**.
 
-We are a Las Vegas–based company specializing in the sale of high-end European-style kitchen cabinets, cabinet doors, interior doors, and wall panels. Through **[27estore.com](https://27estore.com)**, we serve customers nationwide with a focus on quality, customization, and modern design.
+We are a Las Vegas–based company specializing in the sale of high-end European-style [kitchen cabinets](https://www.27estore.com/kitchen-cabinets), [cabinet doors](https://www.27estore.com/cabinet-doors), [interior doors](https://www.27estore.com/wood-interior-doors), and [wall panels](https://www.27estore.com/wood-wall-panels). Through **[27estore.com](https://www.27estore.com)**, we serve customers nationwide with a focus on quality, customization, and modern design.
 
 ### 🚀 Featured App: [27estore Quick Order Tool](https://orders.27estore.com)
 
